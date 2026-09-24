@@ -1,0 +1,7 @@
+{
+  "name": "APEX 27",
+  "description": "Tactical football simulation and card collector featuring 250+ authentic stars and icons, Match History fixture archive with scores, opponents, and dates, 7-Day Login Streak progress calendar, Daily Objectives and Milestones with coin and pack rewards, Draft tournament mode, daily-limited promo mystery boxes and packs, full 38-match league season, multi-slot save progress system, tactical formations, live transfer market, and interactive pitch engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
